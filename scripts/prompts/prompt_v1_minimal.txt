@@ -54,6 +54,49 @@ B) LÉXICO PENINSULAR → RIOPLATENSE (sustituciones obligatorias cuando aparezc
      "Acá" es la forma rioplatense estándar; "aquí" se reemplaza siempre que aparezca,
      conservando mayúscula inicial cuando corresponda: "Aquí" → "Acá".
      Cada ocurrencia se registra como un cambio léxico tipo B.)
+   allí → ahí (sustitución obligatoria en TODOS los registros, paralela a aquí→acá:
+     "Acá/ahí/allá" es la triada rioplatense estándar; "allí" se reemplaza por "ahí"
+     siempre que el referente sea un lugar contextualmente identificado o ya mencionado
+     ("voy allí" → "voy ahí", "es difícil llevarla allí" → "es difícil llevarla ahí").
+     Conservar mayúscula inicial: "Allí" → "Ahí". Cada ocurrencia es un cambio B.
+     Excepción: si el contexto es claramente literario decimonónico o si "allí" anclaje
+     un lugar muy distante específico que en RP se diría "allá" (ej. "allí en Europa,
+     hace siglos"), preferir "allá" en vez de "ahí". En la duda entre "ahí" y "allá",
+     elegir "ahí" para referentes contextuales/cercanos y "allá" para referentes
+     distantes/abstractos.)
+   padre/madre → papá/mamá (en registro coloquial/familiar, especialmente cuando el
+     hablante se refiere a sus PROPIOS padres en 1ª persona dentro de discurso oral
+     o conversacional: "casa de mi padre" → "casa de mi papá", "mi madre cocinó" →
+     "mi mamá cocinó". MANTENER "padre"/"madre" cuando: (a) registro formal, literario
+     o académico ("el padre de la patria", "la madre de Juan Pérez"); (b) referente en
+     3ª persona o terceros ("el padre de Pablo se enojó" se mantiene); (c) "padres" en
+     plural genérico ("los padres tienen derecho a..."); (d) usos no familiares ("padre
+     espiritual", "madre patria", "padre nuestro"). En la duda, mantener.)
+   recoger → levantar (SOLO cuando significa "agarrar algo del piso o de una superficie
+     para retirarlo": "recoger las latas" → "levantar las latas", "recogió la moneda"
+     → "levantó la moneda". MANTENER "recoger" cuando: (a) significa juntar/cosechar
+     ("recoger frutos", "recoger información", "recoger fondos"); (b) significa pasar
+     a buscar a alguien o algo ("te recojo a las 8", "recoger la ropa de la tintorería");
+     (c) registro formal o usos figurados ("recoger el guante", "recoger los testimonios").
+     En la duda, mantener.)
+   enviar → mandar (preferir "mandar" en registro coloquial o cuando el agente es
+     impersonal/no especificado: "me enviaron a Texas" → "me mandaron a Texas",
+     "me envió un mensaje" (coloquial) → "me mandó un mensaje". MANTENER "enviar" en
+     registro formal/escrito ("se envió una carta certificada", "el ministerio envió
+     un comunicado"). En la duda, mantener.)
+   recordar X → acordarse de X (en RP coloquial 1ª persona y registro conversacional:
+     "recuerdo a mis abuelos" → "me acuerdo de mis abuelos", "recuerdo aquel día" →
+     "me acuerdo de aquel día". Requiere ajustar la preposición: "recordar X" → "acordarse
+     de X". MANTENER "recordar" cuando: (a) registro formal/literario ("recuerdo aquellos
+     años con cariño" en narrativa); (b) sentido transitivo de "hacer recordar" o "traer
+     a memoria" ("esto me recuerda a..."); (c) imperativo institucional ("recuerde
+     guardar el comprobante"). En la duda, mantener.)
+   pequeño/a → chico/a (cuando se refiere a edad informal de una persona o animal:
+     "mi hija pequeña" → "mi hija chica" (o "chiquita" en registro afectivo), "el más
+     pequeño de los hermanos" → "el más chico de los hermanos". MANTENER "pequeño/a"
+     cuando: (a) refiere a tamaño físico de un objeto ("una mesa pequeña"); (b) sentido
+     figurado abstracto ("un pequeño detalle", "una pequeña diferencia", "pequeña
+     empresa"); (c) registro literario o formal. En la duda, mantener.)
    coche → auto
    autobús → colectivo    |  piso (=apartamento) → departamento
    oye → traducción contextual (NO reemplazar mecánicamente):

@@ -84,7 +84,7 @@ With full training (390,702 European Spanish pairs), tested on all 7,500 instanc
 | Without type D | -0.3 points |
 | Dialectal change proper (B, C, E) | -0.7 points |
 
-There is a gap in favour of European Spanish once the fixed translation errors are removed, but it is below one point. Part of it comes from the encoding problem described under [known issues](#known-issues).
+There is a gap in favour of European Spanish once the fixed translation errors are removed, but it is below one point. Part of it comes from an encoding error that was present when the experiments ran (see [changes since the thesis](#changes-since-the-thesis)).
 
 ### H2: eye-tracking did not help
 
@@ -105,9 +105,11 @@ The differences between models are within one standard deviation everywhere. Sto
 - Only BETO was tested. The results do not transfer directly to larger models.
 - The eye-tracking corpus is small (20 stories with signal), and biasing masked language modelling may not be the best way to pass the signal to the model.
 
-## Known issues
+## Changes since the thesis
 
-86 instances in `xnlirp/dataset/dataset_final.jsonl` have corrupted accented characters in the Rioplatense text (UTF-8 read as Windows-1250, for example `caĂ­an` instead of `caían`). It is reversible with `text.encode("cp1250").decode("utf-8")` on the affected fields. In the full training experiment, excluding them moves the gap on dialectal instances from -0.74 to -0.52 points.
+The experiments in the thesis ran on a version of XNLIrp in which 86 instances had corrupted accented characters in the Rioplatense text (UTF-8 read as Windows-1250). I fixed them in this repository, including their `changes` and `note` fields, and recomputed their Levenshtein distances. Their indices are listed in [`xnlirp/encoding_fix_ids.txt`](xnlirp/encoding_fix_ids.txt).
+
+The results above are the original ones: I did not retrain. In the full training experiment, leaving these instances out moves the gap on dialectal instances from -0.74 to -0.52 points, so the conclusion on H1 does not change.
 
 ## Data sources and terms
 

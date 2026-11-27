@@ -26,7 +26,7 @@ This makes it possible to evaluate the same model on the same instances in two v
 
 `respuestas_anotadores_anonimizado.csv` holds the 7,120 responses of the native validation campaign, with annotators replaced by IDs. Its columns are in Spanish: `anotador_id` (annotator), `respuesta` (naturalness from 1 to 5), `comentario_prem` and `comentario_hyp` (free comments), `region`, and `palabras_marcadas` (words the annotator marked as unnatural).
 
-See [known issues](../README.md#known-issues) before using the Rioplatense text.
+86 instances differ from the version used in the thesis experiments, see [changes since the thesis](../README.md#changes-since-the-thesis).
 
 ## Pipeline
 
